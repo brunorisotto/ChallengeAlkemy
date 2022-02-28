@@ -15,7 +15,7 @@ en base de datos (PostgreSQL) mediante librería SQLAlchemy
 
 
 
-## ● Crear env desde CMD (Símbolo del sistema de Windows):
+## ● Crear entorno virtual desde CMD (Símbolo del sistema de Windows):
 
 Instalar libreria entorno virtual:
 
