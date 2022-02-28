@@ -35,7 +35,7 @@ Una vez creado el directorio del entorno virtual:
 - Introducir archivo requeriments.txt en carpeta env\Scripts
 
 
-Volver al cmd e ingresar al directorio del entorno virtual:
+Volver al cmd e ingresar a directorio del entorno virtual:
 
 - C:\Users\YourUser>cd env
 
