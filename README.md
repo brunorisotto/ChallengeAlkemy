@@ -4,7 +4,7 @@
  
 
 ## Descripción
-Proyecto hecho con Python, aplicando herramientas Data Analytics
+Proyecto hecho con Python version 3.10.2, aplicando herramientas Data Analytics.
 
 
 
