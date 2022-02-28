@@ -19,13 +19,13 @@ en base de datos (PostgreSQL) mediante librería SQLAlchemy
 
 Instalar libreria entorno virtual:
 
-C:\Users\YourUser>pip install virtualenv
+- C:\Users\YourUser>pip install virtualenv
 
 
 Crear entorno virtual:
 
 Por ejemplo:
-C:\Users\YourUser>python -m venv env
+- C:\Users\YourUser>python -m venv env
 
 
 Una vez creado el directorio del entorno virtual:
@@ -37,24 +37,24 @@ Una vez creado el directorio del entorno virtual:
 
 Volver al cmd e ingresar al directorio del entorno virtual:
 
-C:\Users\YourUser>cd env
+- C:\Users\YourUser>cd env
 
 
-Ingresar a carpeta Scripts dentro del directorio del entorno virtual:
+Ingresar a carpeta Scripts dentro del directorio de entorno virtual:
 
-C:\Users\YourUser\env>cd scripts
+- C:\Users\YourUser\env>cd scripts
 
 
 Activar entorno virtual:
 
-C:\Users\YourUser\env\Scripts>activate
+- C:\Users\YourUser\env\Scripts>activate
 
 
 ### ● Instalación de dependencias necesarias:
 
 Ejecutar archivo requirements.txt:
 
-(env) C:\Users\YourUser\env\Scripts>pip install -r requirements.txt
+- (env) C:\Users\YourUser\env\Scripts>pip install -r requirements.txt
 
 
 ### ● Ejecución de proyecto
@@ -64,17 +64,17 @@ procediendo:
 
 Salir de carpeta Scripts:
 
-(env) C:\Users\YourUser\env\Scripts>cd ..
+- (env) C:\Users\YourUser\env\Scripts>cd ..
 
 
 Ingresar a carpeta __app__:
 
-(env) C:\Users\YourUser\env>cd __app__
+- (env) C:\Users\YourUser\env>cd __app__
 
 
 Ejecutar codigo:
 
-(env) C:\Users\YourUser\env\__app__>python main.py
+- (env) C:\Users\YourUser\env\__app__>python main.py
 
 
 
